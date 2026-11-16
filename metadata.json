@@ -1,0 +1,6 @@
+{
+  "name": "NOTARYDUTTY",
+  "description": "Sistem administrasi kantor notaris terpadu untuk pengelolaan klien, akta, dokumen, dan pembayaran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
