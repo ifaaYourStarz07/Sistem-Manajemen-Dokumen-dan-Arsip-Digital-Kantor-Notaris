@@ -1,4 +1,4 @@
-# NOTARYDUTTY
+# NOTARYDue
 
 Sistem administrasi kantor notaris full-stack berbasis web untuk pengelolaan data klien, registrasi dan pelacakan status akta, pengarsipan dokumen digital, pencatatan pembayaran & cetak kuitansi resmi, pelaporan keuangan, serta audit log aktivitas.
 
